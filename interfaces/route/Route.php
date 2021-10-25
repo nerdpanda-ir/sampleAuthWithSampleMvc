@@ -1,7 +1,7 @@
 <?php namespace interfaces\route; ?>
 <?php
 
-use mysql_xdevapi\SqlStatementResult;
+
 
 interface Route
 {

@@ -1,0 +1,4 @@
+<?php
+const MAX_AFK_SECONDS = 60 ;
+const REMEMBER_COOKIE_AGE = 60;
+const MAX_ACCESS_TOKEN_LENGTH=255;
